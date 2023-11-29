@@ -1,6 +1,6 @@
 # WP CF7 Mixpanel
 
-This repository includes the code snippet responsible for transmitting form data to Mixpanel from Contact Form 7 forms.
+This repository includes the code snippet responsible for sending wordpress form data to Mixpanel from Contact Form 7 forms.
 
 ## How to use?
 
