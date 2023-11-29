@@ -1,3 +1,4 @@
+var form = document.getElementsByClassName("wpcf7-form")[0];
 form.addEventListener('submit', (event) => {
     var element = {};
     var validated = true;
